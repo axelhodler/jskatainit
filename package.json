@@ -1,0 +1,12 @@
+{
+  "name": "jskatainit",
+  "version": "1.0.0",
+  "description": "starting point for doing katas",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha src/*"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
